@@ -1,5 +1,6 @@
 #pragma once
 
+#include <cstdint>
 #include "zlib.h"
 
 bool    file_is_compressed_type(char const *path);

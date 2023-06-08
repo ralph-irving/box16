@@ -2,6 +2,8 @@
 #if !defined(DISASM_OVERLAY_H)
 #	define DISASM_OVERLAY_H
 
+#include <cstdint>
+
 class imgui_debugger_disasm
 {
 private:

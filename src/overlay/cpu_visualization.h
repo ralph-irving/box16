@@ -1,5 +1,7 @@
 #pragma once
 
+#include <cstdint>
+
 enum cpu_visualization_highlight {
 	NONE = 0,
 	IRQ,

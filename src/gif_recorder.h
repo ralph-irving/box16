@@ -1,5 +1,7 @@
 #pragma once
 
+#include <cstdint>
+
 // GIF recorder commands
 enum gif_recorder_command_t {
 	RECORD_GIF_PAUSE = 0,
