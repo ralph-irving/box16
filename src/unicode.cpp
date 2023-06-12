@@ -1,4 +1,3 @@
-#include <cstdio>
 #include "unicode.h"
 
 #include "utf8.h"

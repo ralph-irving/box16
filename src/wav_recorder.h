@@ -2,8 +2,6 @@
 #if !defined(WAV_RECORDER_H)
 #	define WAV_RECORDER_H
 
-#include <cstdint>
-
 enum wav_recorder_command_t {
 	RECORD_WAV_PAUSE = 0,
 	RECORD_WAV_RECORD,

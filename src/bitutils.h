@@ -2,8 +2,6 @@
 #if !defined(BITUTILS_H)
 #	define BITUTILS_H
 
-#include <cstdint>
-
 template <uint8_t msb, uint8_t lsb = msb>
 uint8_t get_bit_field(const uint8_t value)
 {

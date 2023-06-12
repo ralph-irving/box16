@@ -1,4 +1,3 @@
-#include <unistd.h>
 #include "timing.h"
 
 #include <SDL.h>

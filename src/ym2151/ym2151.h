@@ -2,8 +2,6 @@
 #if !defined(YM2151_H)
 #	define YM2151_H
 
-#include <cstdint>
-
 //=============================================
 //
 // YM2151 wrapper around ymfm's API

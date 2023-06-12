@@ -2,8 +2,6 @@
 #if !defined(TIMING_H)
 #	define TIMING_H
 
-#include <cstdint>
-
 extern uint32_t Timing_perf;
 
 void timing_init();

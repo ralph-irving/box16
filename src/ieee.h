@@ -6,8 +6,6 @@
 #if !defined(IEEE_H)
 #	define IEEE_H
 
-#include <cstdint>
-
 void ieee_init();
 int SECOND(uint8_t a);
 void TKSA(uint8_t a);
