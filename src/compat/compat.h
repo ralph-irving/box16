@@ -26,4 +26,8 @@ uint8_t
 #include <stdint.h>
 #include <stdio.h>
 #include <unistd.h>
+#elif defined(__APPLE__)
+#include <stdint.h>
+#include <stdio.h>
+#include <unistd.h>
 #endif
